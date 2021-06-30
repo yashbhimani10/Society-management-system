@@ -14,7 +14,7 @@ https://socmansys.herokuapp.com/
 * Complaint box
 
 ### How to run?
-* git clone https://github.com/Rushijaviya/Socmansys.git
+* git clone https://github.com/yashbhimani10/Society-management-system.git
 
 * cd managesys
 
